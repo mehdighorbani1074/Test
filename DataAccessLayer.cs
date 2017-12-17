@@ -1,13 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
-ddd
+
 namespace DA
 {
 sql connection
 sqlcommand
+cccc
+dddd
     public class DataAccessLayer
     {
         SqlConnection con;
